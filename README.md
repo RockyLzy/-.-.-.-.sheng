@@ -4,7 +4,7 @@
 | 时间 | 事件| 个人判断	| 备注	| 正方 |	反方 |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |3月15日|	上海市新冠疫情防控新闻发布会|	真|	|	https://wsjkw.sh.gov.cn/rdhy/20220316/9098c1cd3a7f47b982d4045da70a3673.html	| |
-|3月26日|	上海市新冠疫情防控新闻发布会|	不知道|	官方实录没有，但有的报道有原文|	https://www.sohu.com/a/532903088_116237	|http://www.scio.gov.cn/xwfbh/gssxwfbh/xwfbh/shanghai/Document/1722446/1722446.htm|
+|3月26日|	上海市新冠疫情防控新闻发布会|	真|	官方实录没有，但有的报道有原文|	https://www.bilibili.com/video/BV1VF411W73k	| http://www.scio.gov.cn/xwfbh/gssxwfbh/xwfbh/shanghai/Document/1722446/1722446.htm|
 |4月1日|	市民与浦东疾控中心传染病防治科主任通话|	真|	整体都是正确的，但是拼接过，两段话中间隔着一些别的话|	https://zhuanlan.zhihu.com/p/492485347	| |
 |4月1日|	金山某医院幼儿和父母分开隔离|	不知道（倾向于假）|	有媒体报道此事，但有官方辟谣，背景音没有辨识度|	https://news.sina.com.cn/s/2022-04-02/doc-imcwipii2002142.shtml	|https://baijiahao.baidu.com/s?id=1728995292040196100&wfr=spider&for=pc|
 |4月2日|	救援物资货车司机无人对接	|不知道|	看过视频，但视频没有拍到救援物资。现在网上能搜到的都是营销号既视感的视频|	https://haokan.baidu.com/v?pd=wisenatural&vid=2554655540017230881	| |
